@@ -13,7 +13,7 @@
 npm run dev
 ```
 
-1. 在浏览器输入 [http://localhost:3000](http://localhost:3000) 
+2. 在浏览器输入 [http://localhost:3000](http://localhost:3000) 
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
